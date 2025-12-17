@@ -99,3 +99,9 @@ Add more advanced NLP models (BERT, LSTM)
 Build a dashboard using Power BI / Streamlit
 
 Add more training data for higher accuracy
+
+
+📽 Demo Video
+The project demo video has been uploaded to GitHub under the *Releases* section.
+
+➡ Please navigate to *Releases → v3.0* and download the video to view the full demonstration.
